@@ -1,0 +1,41 @@
+.grid img{
+    border:2px solid #000000;
+    border-radius: 50px;
+}
+
+.origami {
+    border-radius: 20px;
+    background-color:#ffffff;
+    width:310px;
+    font-family: fantasy;
+    border-color:#000000;
+    padding: 30px;
+    margin: 25px;
+}
+
+.menu{
+    display: flex;
+    justify-content:space-between;
+    background-color:#000000;
+    font-size:20px;
+    padding: 15px;
+    font-family: sans-serif;
+    font-weight: 400; color: ffffff;
+}
+
+.bodyimg{
+    margin: 0px;
+    background-color: #ffffff;
+}
+
+a:link{
+    color:orange;
+}
+
+a:visited{
+    color:purple;
+}
+
+.origami:hover{
+    transform: scale(1.2);
+}
